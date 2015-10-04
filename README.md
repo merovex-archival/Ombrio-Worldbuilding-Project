@@ -1,6 +1,6 @@
 # Ombrio Worldbuilding Project
 
-The **Ombrio Worldbuilding Project** (hereafter, OWP or Project) is an effort to develop a slipstream genre[^slipstream] milieu via community. It was founded by Benjamin Wilson as a way to help flesh out the milieu. He saw this as a chance to encourage other writers to share a milieu. Delusions of grandeur assert that a project like this could yield a universe as rich as Star Wars, Star Trek and other cult-followed. All it lacks is content...and a cult.
+The **Ombrio Worldbuilding Project** (hereafter, OWP or Project) is an effort to develop a slipstream genre milieu via community. It was founded by Benjamin Wilson as a way to help flesh out the milieu. He saw this as a chance to encourage other writers to share a milieu. Delusions of grandeur assert that a project like this could yield a universe as rich as Star Wars, Star Trek and other cult-followed. All it lacks is content...and a cult.
 
 ## Team 
 
@@ -17,6 +17,6 @@ By participating, each team member agrees to abide by these terms. They also ass
 
 Since Ben is an self-described author, he commits to provide team members with one free paperback of any novel he publishes as consideration for others participation. He also commits to including an Acknowledgment for each team member in anything related to the **Ombrio Worldbuilding Project**.
 
-CC BY 4.0 requires attribution[^cc-attribution]. To honor that requirement, we ask authors include the following reference in their copyright page:
+CC BY 4.0 requires attribution. To honor that requirement, we ask authors include the following reference in their copyright page:
 
-<div class='alert alert-success'>This work features content from the &ldquo;Ombrio Worldbuilding Project,&rdquo; available under a Creative Commons Attribution 4.0 International license (CC BY 4.0).</div>
+> This work features content from the &ldquo;Ombrio Worldbuilding Project,&rdquo; available under a Creative Commons Attribution 4.0 International license (CC BY 4.0).
