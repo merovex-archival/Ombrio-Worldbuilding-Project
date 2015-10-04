@@ -8,7 +8,7 @@ See the [Ombrio Worldbuilding Project Call to Action](http://dausha.net/ombrio/w
 
 The OWP Team comprises:
 
-* Ben Wilson, Editor, Author of Postal Marine Series
+* @merovex, Ben Wilson, Editor, Author of Postal Marine Series
 * ... (You Could be Here)
 
 ## License
