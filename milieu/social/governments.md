@@ -2,7 +2,7 @@
 
 List of Nations
 
-## Fe / Tirse (List of Cities)
+## Fetirse (List of Cities)
 
 * Demir
 * Ayahan
@@ -27,7 +27,7 @@ List of Nations
 * Puthau
 * Irump
 
-## Cu / Tunka (List of Cities)
+## Kutunka (List of Cities)
 
 * Kobrea
 * Arambre
@@ -48,7 +48,7 @@ List of Nations
 * Khofa
 * Miskwabik
 
-## Ag / Riyno  (List of Cities)
+## Agriyno  (List of Cities)
 
 * Solv
 * Asime
@@ -72,9 +72,33 @@ List of Nations
 * Toknawa
 * Riyno 
 
-## St / Tinci
+## Stinci
 
-## Au / Soliy
+* Kalyau
+* Tinci
+* Blaech
+* Calea
+* Cositor
+* Bolava
+* Kositar
+* Alavas
+* Staoin
+* Anag
+* Trapu
+* Datina
+* Kalay
+* Tugalga
+* Ghali
+* Landatan
+* Siak
+* Dibuk
+* Latkapa
+* Takaram
+* Beteik
+* Thini
+* Amochit
+
+## Ausoliy
 
 * Gull
 * Amalama
@@ -118,3 +142,25 @@ List of Nations
 * Yoliam
 * Hidrar
 
+## Plunisa
+
+* Sarbu
+* Ashikoman
+* Temetz
+* Lotobol
+* Barma
+* Kruyam
+* Kepau
+* Timbal
+* Namari
+* Kursun
+* Ladju
+* Kivi
+* Vudulno
+* Olovo
+* Tipusisa
+* Surb
+* Luaip
+* Woloi
+* Chumbo
+* Blei
