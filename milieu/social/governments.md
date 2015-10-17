@@ -1,6 +1,8 @@
 
 
-List of Nations
+# List of Nations
+
+There are seven nations within Ombrio
 
 ## Fetirse (List of Cities)
 
@@ -144,6 +146,7 @@ List of Nations
 
 ## Plunisa
 
+* Kovano
 * Sarbu
 * Ashikoman
 * Temetz
